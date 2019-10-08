@@ -22,6 +22,9 @@
     "webpack-cli": "^3.3.9"
   },
   "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.5.1",
+    "eslint-plugin-react": "^7.16.0",
     "nodemon": "^1.19.3"
   }
 }
